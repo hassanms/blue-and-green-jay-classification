@@ -1,4 +1,4 @@
-# Blue and Green Jay Classification
+# Blue and Green Jay Classification using Deep Learning
 
 This project deals with binary classification. A Convolutional Neural Network (CNN) is used to classify blue and green jay.
 
