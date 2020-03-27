@@ -1,3 +1,5 @@
 # Blue and Green Jay Classification
 
-CNN is trained to classify between blue and green jay.
+## Dataset
+
+Caltech-UCSA 200 Birds 
